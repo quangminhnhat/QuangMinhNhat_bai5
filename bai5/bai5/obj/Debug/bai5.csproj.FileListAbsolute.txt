@@ -1,0 +1,10 @@
+E:\program test\C#\bai5\bai5\bin\Debug\bai2.exe.config
+E:\program test\C#\bai5\bai5\bin\Debug\bai2.exe
+E:\program test\C#\bai5\bai5\bin\Debug\bai2.pdb
+E:\program test\C#\bai5\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+E:\program test\C#\bai5\bai5\obj\Debug\bai2.Form1.resources
+E:\program test\C#\bai5\bai5\obj\Debug\bai2.Properties.Resources.resources
+E:\program test\C#\bai5\bai5\obj\Debug\bai5.csproj.GenerateResource.cache
+E:\program test\C#\bai5\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+E:\program test\C#\bai5\bai5\obj\Debug\bai2.exe
+E:\program test\C#\bai5\bai5\obj\Debug\bai2.pdb
